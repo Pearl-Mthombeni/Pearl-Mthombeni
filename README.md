@@ -13,7 +13,7 @@
 
 • I’m currently working on <b>something innovative!</b> <br/>
 • I enjoy watching anime and mind bending series and movies.</b><br/>
-• I do not like coffee.</br><br>
+• I do not like coffee.</br><br/>
 • 📫 Reach out to me at <a href="https://www.instagram.com"><b>@__pearl_m</b></a><br/>
 </span>
 
