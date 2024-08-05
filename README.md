@@ -3,7 +3,7 @@
 <br />
 
 **Hi, I am  Pearl Mthombeni and welcome to my portfolio! I am an aspiring web developer with a background in administration, now interested in breaking into the tech world to create beautiful and functional web applications.**
-<br/><br/>I enjoy tackling intricate problems and transforming them into elegant, user-friendly and responsive interface designs. 
+<br/><br/>I enjoy tackling intricate problems and transforming them into refined, user-friendly and responsive interface designs. 
 <br/><br/>I also love the logic and structure of coding, I always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
 
 
@@ -12,9 +12,8 @@
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
 • I’m currently working on <b>something innovative!</b> <br/>
-• I enjoy watching anime and mind bending series and movies.</b><br/>
-• I do not like coffee.</br><br/>
-• 📫 Reach out to me at <a href="https://www.instagram.com"><b>@__pearl_m</b></a><br/>
+• I enjoy watching anime and mind bending series and movies</b><br/>
+• I love experimenting with new recipes </br><br/>
 </span>
 
 <br />
