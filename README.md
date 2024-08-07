@@ -2,7 +2,7 @@
 
 <br />
 
-**Hi, I am  Pearl Mthombeni and welcome to my portfolio! I am an aspiring web developer with a background in administration, now interested in breaking into the tech world to create beautiful and functional web applications.**
+**Hi, I am  Pearl Mthombeni and welcome to my profile! I am an aspiring web developer with a background in administration, now interested in breaking into the tech world to create beautiful and functional web applications.**
 <br/><br/>I enjoy tackling intricate problems and transforming them into refined, user-friendly and responsive interface designs. 
 <br/><br/>I also love the logic and structure of coding, I always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
 
